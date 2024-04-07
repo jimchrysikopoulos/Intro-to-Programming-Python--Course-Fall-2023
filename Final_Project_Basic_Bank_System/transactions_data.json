@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 0,
+            "new_balance": 100,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-01-29 00:22:35.151293"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 100,
+            "new_balance": 0,
+            "type": "withdraw",
+            "amount": 100,
+            "date": "2024-01-29 18:52:29.710713"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 0,
+            "new_balance": 100,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-01-29 21:40:34.873733"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 100,
+            "new_balance": 0,
+            "type": "withdraw",
+            "amount": 100,
+            "date": "2024-01-29 22:35:13.757122"
+        }
+    },
+    {
+        "id": 2,
+        "transaction": {
+            "previous_balance": 100,
+            "new_balance": 200,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-01-29 23:44:34.567719"
+        }
+    },
+    {
+        "id": 2,
+        "transaction": {
+            "previous_balance": 200,
+            "new_balance": 100,
+            "type": "withdraw",
+            "amount": 100,
+            "date": "2024-01-29 23:44:34.567719"
+        }
+    },
+    {
+        "id": 2,
+        "transaction": {
+            "previous_balance": 100,
+            "new_balance": 0,
+            "type": "withdraw",
+            "amount": 100,
+            "date": "2024-01-29 23:44:34.567719"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 0,
+            "new_balance": 100,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-01-30 00:02:48.075204"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 100,
+            "new_balance": 200,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-01-30 21:27:52.245535"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 200,
+            "new_balance": 300,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-01-30 21:27:52.245535"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 300,
+            "new_balance": 400,
+            "type": "diposit",
+            "amount": 100,
+            "date": "2024-02-02 12:27:19.417278"
+        }
+    },
+    {
+        "id": 1,
+        "transaction": {
+            "previous_balance": 400,
+            "new_balance": 300,
+            "type": "withdraw",
+            "amount": 100,
+            "date": "2024-02-02 12:27:19.417278"
+        }
+    }
+]

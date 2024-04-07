@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "Forname": "dummy",
+        "Surname": "dummy",
+        "password": "0000"
+    },
+    {
+        "id": 1,
+        "Forename": "Liam",
+        "Surname": "McTaylor",
+        "password": "BankAdmin1"
+    },
+    {
+        "id": 2,
+        "Forename": "Olivia",
+        "Surname": "Anderson",
+        "password": "BankAdmin2"
+    }
+]
